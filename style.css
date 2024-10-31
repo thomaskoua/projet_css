@@ -1,0 +1,274 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: rgb(244, 247, 247);
+    display: flex;
+    justify-content: space-around;
+    height: 60px;
+    align-items: center;
+    box-shadow: 0px 3px 6px rgb(134, 135, 136);
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+ul1{
+    display: flex;
+    gap: 20px;
+
+}
+a1{
+    text-decoration: none;
+}
+
+li1{
+    list-style: none;
+}
+
+.title1{
+    color:rgb(101, 151, 101);
+}
+.title2{
+    
+    color:rgb(133, 136, 139) 
+}
+
+.section1{
+    margin-top: 100PX;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+    
+
+}
+.image1{
+    width: 50px;
+    height: 50px;
+}
+
+h3{
+
+    color: rgb(57, 174, 179);
+}
+
+.texte1{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.section2{
+    display: flex;
+    justify-content: space-evenly;
+ 
+}
+.bloc1{
+    width: 25%;
+    background-color: rgb(28, 218, 218); 
+    
+}
+.bloc2{
+    width: 25%;
+    background-color: rgb(44, 31, 56);
+}
+.bloc3{
+    width: 25%;
+    background-color: rgb(85, 85, 196);
+}
+
+h1{
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    color: aliceblue;
+    font-family: initial;
+}
+.section3{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    width: 100%;
+
+}
+h4{
+    width: 20%;
+    color: rgb(24, 110, 110);
+}
+.btn{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 70%;
+    gap: 20px;
+}
+.li2{
+    list-style: none;
+}
+a2{
+    text-decoration: rgb(72, 79, 79);
+    bottom: auto;
+}
+.section4{
+    background-color: rgb(146, 231, 231);
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+     
+}
+.texte2{
+    color: rgb(59, 113, 113);
+    width: 40%;
+
+}
+P2{
+   color: dimgrey;
+   width: 35%;
+}
+.logo{
+    width: 50%;
+    height: 70%;
+    color: rgb(87, 200, 162);
+}
+.bloc{
+     display: flex;
+ 
+    width: 50%;
+    color: rgb(56, 62, 67);
+    gap: 10px;
+    padding: 10px;
+}
+.parante_b4_b5{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+  
+}
+.bloc4{
+    margin-bottom:10px ;
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bloc5{
+    
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.bloc6{
+    background-color: rgb(255, 255, 255);
+    height: 250px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.bloc7{
+    background-color: rgb(255, 255, 255) ;
+    height: 250px;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.content{
+   
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+
+    justify-content: center;
+}
+.title{
+    color: aqua;
+    width: 50%;
+}
+.p3{
+    color: rgb(77, 71, 71);
+    width: 50%;
+    text-align: center;
+}
+.div_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    
+    
+
+    
+}
+.container{
+  
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.blocA{
+   
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    
+    
+}
+.blocB{
+    
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.blocC{
+     
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+
+}
+.pp{
+    color: rgb(60, 37, 37);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: 'MaPolice', sans-serif;
+    font-size: x-large;
+}
+#btn3{
+    background-color: mediumblue;
+    padding: 8px;
+    color: aliceblue;
+    border:solid 1px blue;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    
+}
+h6{
+    display: flex;
+    justify-content: center;
+}
+.pa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.po{
+    color: rgb(89, 185, 215);
+}
+footer{
+    margin-top: 20px;
+    padding: 20px;
+}
+
